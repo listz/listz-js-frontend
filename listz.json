@@ -1,0 +1,19 @@
+{
+  "version" : "1",
+  "name" : "The name of your Listz.",
+  "description" : "The description of your Listz.",
+  "image" : "The URL of the image that will represent your Listz.",
+
+  "items" : [
+    {
+      "name" : "The name of a list-item",
+      "description" : "The description of a list-item",
+      "image" : "The URL of an image that will represent your list-item. Preferably a link to a GitHub repository.",
+      "link" : "The URL that users will be redirected to if they wish to know more about your list-item.",
+      "tags" : [
+        "Tags", "that", "describe", "your", "list", "item."
+      ]
+    }
+
+  ]
+}

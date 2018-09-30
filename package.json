@@ -1,0 +1,25 @@
+{
+  "name": "listz-template",
+  "version": "1.0.0",
+  "description": "The listz template",
+  "main": "index.js",
+  "dependencies": {
+    "listz": "^0.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/listz/listz-template.git"
+  },
+  "author": "Artus Vranken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/listz/listz-template/issues"
+  },
+  "homepage": "https://github.com/listz/listz-template#readme"
+}
