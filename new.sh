@@ -13,10 +13,11 @@ git push --mirror $new_url;
 cd ..;
 rm -rf $1;
 
-# Clone the new repository and remove the old README.md.
+# Clone the new repository and remove the old README.md and the creation script.
 git clone $new_url;
 cd $new_url;
 rm README.md;
+rm $0;
 
 # Update the new README.md.
 touch README.md;
