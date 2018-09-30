@@ -16,3 +16,6 @@ You can test if your `listz.json` is valid by running the `test` command:
 npm run test
 ```
 
+## How to contribute
+
+You can read more about how to contribute [here](https://github.com/listz/listz/blob/master/CONTRIBUTING.md).
