@@ -1,17 +1,37 @@
 {
   "version" : "1",
-  "name" : "The name of your Listz.",
-  "description" : "The description of your Listz.",
+  "name" : "Javascript Frontend Frameworks",
+  "description" : "A collection of all javascript frontend frameworks.",
   "image" : "The URL of the image that will represent your Listz.",
 
   "items" : [
     {
-      "name" : "The name of a list-item",
-      "description" : "The description of a list-item",
-      "image" : "The URL of an image that will represent your list-item. Preferably a link to a GitHub repository.",
-      "link" : "The URL that users will be redirected to if they wish to know more about your list-item.",
+      "name" : "Vue.js",
+      "description" : "The Progressive Javascript Framework",
+      "image" : "https://vuejs.org/images/logo.png",
+      "link" : "https://github.com/vuejs/vue",
       "tags" : [
-        "Tags", "that", "describe", "your", "list", "item."
+        "Vue", "webpack", "progressive", "incrementally-adoptable", "UI", "view"
+      ]
+    },
+
+    {
+      "name" : "React.js",
+      "description" : "A JavaScript library for building user interfaces",
+      "image" : "https://listz.github.io/listz-js-frontend/media/react.png",
+      "link" : "https://github.com/facebook/react",
+      "tags" : [
+        "facebook", "react", "declarative", "components"
+      ]
+    },
+
+    {
+      "name" : "Angular",
+      "description" : "One framework. Mobile & desktop",
+      "image" : "https://listz.github.io/listz-js-frontend/media/angular.png",
+      "link" : "https://github.com/angular/angular",
+      "tags" : [
+        "google", "angular", "typescript"
       ]
     }
 
