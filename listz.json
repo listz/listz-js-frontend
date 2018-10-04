@@ -33,7 +33,17 @@
       "tags" : [
         "google", "angular", "typescript"
       ]
-    }
+    },
+    
+    {
+      "name" : "Marko",
+      "description" : "A friendly and super fast UI library that makes building web apps fun",
+      "image" : "https://raw.githubusercontent.com/marko-js/branding/master/marko-logo-medium-cropped.png",
+      "link" : "https://github.com/marko-js/marko",
+      "tags" : [
+        "ebay", "marko", "javascript", "marko-js", "ui"
+      ]
+    },
 
   ]
 }
