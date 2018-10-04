@@ -1,8 +1,8 @@
 {
   "version" : "1",
   "name" : "Javascript Frontend Frameworks",
-  "description" : "A collection of all javascript frontend frameworks.",
-  "image" : "The URL of the image that will represent your Listz.",
+  "description" : "A collection of javascript frontend frameworks.",
+  "image" : "https://listz.github.io/listz-js-frontend/media/js.png",
 
   "items" : [
     {
