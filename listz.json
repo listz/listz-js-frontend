@@ -34,7 +34,7 @@
         "google", "angular", "typescript"
       ]
     },
-    
+
     {
       "name" : "Marko",
       "description" : "A friendly and super fast UI library that makes building web apps fun",
@@ -42,6 +42,16 @@
       "link" : "https://github.com/marko-js/marko",
       "tags" : [
         "ebay", "marko", "javascript", "marko-js", "ui"
+      ]
+    },
+
+    {
+      "name" : "Ember.js",
+      "description" : "Ember.js is an open-source JavaScript web framework, based on the Model–view–viewmodel (MVVM) pattern. ",
+      "image" : "https://listz.github.io/listz-js-frontend/media/ember.png",
+      "link" : "https://github.com/emberjs/ember.js",
+      "tags" : [
+        "ember", "MIT", "javascript", "ember-js", "ui"
       ]
     }
   ]
